@@ -1,0 +1,33 @@
+.heading
+{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px grey;
+}
+.note
+{
+    font-size:15px;
+    color:black;
+}
+.copy_right_footer
+{
+position:fixed;
+color:white;
+bottom:0;
+width:100%;
+background-color:crimson;
+line-height:3;
+text-align:center;
+}
+canvas{
+    background-color: blueviolet;
+    border:5px;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+}
+.body_background{
+    background-image:url("3204572.jpg");
+    background-position:center;
+    background-size:cover;
+}
